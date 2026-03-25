@@ -8,8 +8,8 @@
 ## Working On:
 * ChromaClash
   - A 2D fighting game with rollback netcode
-* ML Models
-  - A C++ library implementing machine learning algorithms from scratch.
+* Trace Guard
+  - A C++ library for deterministic debugging and multi-trace correlation for distributed systems on Linux.
 
 ## Languages:
 <div align="center">
