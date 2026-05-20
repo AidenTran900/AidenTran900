@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://aidentran.dev/">
-    <img src="Banner.png" height="300" alt="Aiden Tran Portfolio" />
+    Aiden Tran
   </a>
 </div>
 
