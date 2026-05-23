@@ -7,7 +7,7 @@
 
 ## Working On:
 - Cal Tools
-  - Personal agent that helps me with course content/logistics and major reqiurements.
+  - Personal agent that helps Berkeley students with course content/logistics and reqiurements.
 * ChromaClash
   - A 2D fighting game with rollback netcode
 
