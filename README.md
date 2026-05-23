@@ -6,6 +6,8 @@
 </div>
 
 ## Working On:
+- Cal Tools
+  - Personal agent that helps me with course content/logistics and major reqiurements.
 * ChromaClash
   - A 2D fighting game with rollback netcode
 
