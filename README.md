@@ -2,7 +2,9 @@
 # [Aiden Tran](https://aidentran.dev/)
 
 ## Working On:
-- Cal Tools
+- Bedwars Agents
+  - Multi-agent LLM research platform built on Minecraft Bedwars. Studying emergent coordination, communication, and behavior under competitive pressure.
+* Cal Tools
   - Personal agent that helps Berkeley students with course content/logistics and reqiurements.
 * ChromaClash
   - A 2D fighting game with rollback netcode
