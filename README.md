@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=AidenTran900&style=flat-square&color=blue" alt=""/>
 
 ## Working On:
-- Bedwars Agents
+* Bedwars Agents
   - Multi-agent LLM research platform built on Minecraft Bedwars. Studying emergent coordination, communication, and behavior under competitive pressure.
 * Cal Tools
   - Personal agent that helps Berkeley students with course content/logistics and reqiurements.
