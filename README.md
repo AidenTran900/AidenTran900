@@ -4,7 +4,7 @@
 
 ## Working On:
 * Bedwars Agents
-  - Multi-agent LLM research platform built on Minecraft Bedwars. Studying emergent coordination, communication, and behavior under competitive pressure.
+  - Multi-agent LLM research platform built on Minecraft Bedwars. Studying emergent coordination, communication, and behavior in a competitive scenario.
 * Cal Tools
   - Personal agent that helps Berkeley students with course content/logistics and reqiurements.
 * ChromaClash
