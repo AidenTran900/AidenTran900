@@ -3,12 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=AidenTran900&style=flat-square&color=blue" alt=""/>
 
 ## Working On:
-* Bedwars Agents
-  - Multi-agent LLM research platform built on Minecraft Bedwars. Studying emergent coordination, communication, and behavior in a competitive scenario.
-* Cal Tools
-  - Personal agent that helps Berkeley students with course content/logistics and reqiurements.
 * ChromaClash
   - A 2D fighting game with rollback netcode
+* Other Private Projects
 
 ## Languages:
 <div align="center">
