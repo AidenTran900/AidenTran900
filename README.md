@@ -2,11 +2,6 @@
 # [Aiden Tran](https://aidentran.dev/)
 <img src="https://komarev.com/ghpvc/?username=AidenTran900&style=flat-square&color=blue" alt=""/>
 
-## Working On:
-* ChromaClash
-  - A 2D fighting game with rollback netcode
-* Other Private Projects
-
 ## Languages:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
