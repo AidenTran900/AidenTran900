@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=AidenTran900&style=flat-square&color=blue" alt=""/>
 
 ### Languages:
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
