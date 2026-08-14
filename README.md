@@ -2,7 +2,7 @@
 # [Aiden Tran](https://aidentran.dev/)
 <!-- <img src="https://komarev.com/ghpvc/?username=AidenTran900&style=flat-square&color=blue" alt=""/> -->
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AidenTran900&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=AidenTran900&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AidenTran900&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=AidenTran900&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=codeSTACKr)
 
 
 ### Languages:
